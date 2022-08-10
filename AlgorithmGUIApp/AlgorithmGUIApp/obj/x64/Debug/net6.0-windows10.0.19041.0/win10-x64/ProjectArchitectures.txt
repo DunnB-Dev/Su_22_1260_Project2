@@ -1,0 +1,1 @@
+C:\Users\14233\Desktop\AlgorithmGUIApp\AlgorithmGUIApp\AlgorithmGUIApp.csproj;x64

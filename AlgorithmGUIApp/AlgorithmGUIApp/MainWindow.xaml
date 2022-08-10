@@ -1,0 +1,42 @@
+﻿<Window
+    x:Class="AlgorithmGUIApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AlgorithmGUIApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:lib="using:AlgorithmGUIApp" xmlns:lib1="using:AlgorithmGUILib"
+    mc:Ignorable="d">
+
+    <StackPanel x:Name="MainPanel" Orientation="Vertical">
+        <MenuBar>
+            <MenuBarItem Title="File">
+                <MenuFlyoutSubItem Text="New">
+                    <MenuFlyoutItem Text="Algorithm..." Click="OnFileNewAlgorithm"/>
+                </MenuFlyoutSubItem>
+                <MenuFlyoutSeparator />
+                <MenuFlyoutItem Text="Exit" Click="OnFileExit"/>
+            </MenuBarItem>
+
+            <MenuBarItem Title="Help">
+                <MenuFlyoutItem Text="About" Click="OnAboutClick"/>
+            </MenuBarItem>
+        </MenuBar>
+        <Page>
+            <Page.Resources>
+                <DataTemplate x:Key="AlgorithmsTemplate" x:DataType="lib1:Algorithm">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{x:Bind AlgoName}" MinWidth="400"/>
+                        <TextBlock Text="{x:Bind AverageComplexity}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </Page.Resources>
+
+            <ListView 
+                x:Name="AlgorithmsListView"
+                ItemTemplate="{StaticResource AlgorithmsTemplate}"
+                IsItemClickEnabled="True"
+                ItemClick="OnAlgorithmClicked"/>
+        </Page>
+    </StackPanel>
+</Window>

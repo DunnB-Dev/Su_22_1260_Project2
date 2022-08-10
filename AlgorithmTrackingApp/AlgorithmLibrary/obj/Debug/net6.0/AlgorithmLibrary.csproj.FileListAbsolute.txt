@@ -1,0 +1,12 @@
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/bin/Debug/net6.0/AlgorithmLibrary.deps.json
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/bin/Debug/net6.0/AlgorithmLibrary.dll
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/bin/Debug/net6.0/AlgorithmLibrary.pdb
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/obj/Debug/net6.0/AlgorithmLibrary.csproj.AssemblyReference.cache
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/obj/Debug/net6.0/AlgorithmLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/obj/Debug/net6.0/AlgorithmLibrary.AssemblyInfoInputs.cache
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/obj/Debug/net6.0/AlgorithmLibrary.AssemblyInfo.cs
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/obj/Debug/net6.0/AlgorithmLibrary.csproj.CoreCompileInputs.cache
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/obj/Debug/net6.0/AlgorithmLibrary.dll
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/obj/Debug/net6.0/refint/AlgorithmLibrary.dll
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/obj/Debug/net6.0/AlgorithmLibrary.pdb
+/Users/vicke/Desktop/Su_22_1260_Project2/AlgorithmTrackingApp/AlgorithmLibrary/obj/Debug/net6.0/ref/AlgorithmLibrary.dll

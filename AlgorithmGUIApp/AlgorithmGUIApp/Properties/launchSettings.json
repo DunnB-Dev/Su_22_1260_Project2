@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AlgorithmGUIApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AlgorithmGUIApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+Heap Sort | WormCase | BebCase | AvgCompe
+Insertion Sort | O(n^2) | O(n) | O(log(n^2))
+Quick Sort | WorstCase | BestCase | AvgComp

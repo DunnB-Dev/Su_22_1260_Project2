@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=740dcc6c_002Dc343_002D4d2f_002Dbe5d_002D172b17e2bcb2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AlgorithmCanHaveAName" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::2DE086F4-F38F-423B-B8AD-54B47FD81DB1::net6.0::AlgorithmTesting.AlgorithmTesting&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::2DE086F4-F38F-423B-B8AD-54B47FD81DB1::net6.0::AlgorithmTesting.CsvTesting&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::2DE086F4-F38F-423B-B8AD-54B47FD81DB1::net6.0::AlgorithmTesting.InvalidExceptionTesting.AnExceptionIsThrownWhenTheFileIsNotFound&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::2DE086F4-F38F-423B-B8AD-54B47FD81DB1::net6.0::AlgorithmTesting.InvalidExceptionTesting&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
